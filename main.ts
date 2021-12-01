@@ -1,0 +1,10 @@
+basic.forever(function () {
+    music.ringTone(440)
+    basic.pause(900)
+    music.ringTone(330)
+    basic.pause(900)
+    music.ringTone(392)
+    basic.pause(900)
+    music.ringTone(330)
+    basic.pause(900)
+})
